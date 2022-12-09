@@ -1,3 +1,6 @@
-div#TalionNav{display: none! important}
+div.TalionNav-static{height: auto}
+a.icon-wrap{display: none! important}
+a.info{display: none! important}
+a.btn{display: none! important}
 div.subject-banner{display: none! important}
 div.center{display: none! important}
